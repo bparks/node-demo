@@ -1,0 +1,9 @@
+[submodule "etherpad-lite"]
+	path = etherpad-lite
+	url = https://github.com/ether/etherpad-lite.git
+[submodule "verimail"]
+	path = verimail
+	url = https://github.com/bparks/verimail.git
+[submodule "goggles"]
+	path = goggles
+	url = https://github.com/gcr/goggles.git
